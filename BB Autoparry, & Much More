@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/virexx55/c7866e46243cb74873cffc6617c04529/raw/f84e32ae043f238132b9c6ed1cfb5a076b48e2d3/virex.lua"))()
